@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "nombre": "acetaminofen",
+            "categoría": "salud y medicamentos",
+            "precio": 5,
+            "cantidad": 14
+        },
+        {
+            "nombre": "teragrip",
+            "categoría": "salud y medicamentos",
+            "precio": 7,
+            "cantidad": 23
+        },
+        {
+            "nombre": "ambroxol",
+            "categoría": "salud y medicamentos",
+            "precio": 7,
+            "cantidad": 39
+        },
+        {
+            "nombre": "gorro de baño",
+            "categoría": "higiene y cuidado personal",
+            "precio": 3,
+            "cantidad": 24
+        },
+        {
+            "nombre": "crema hidratante",
+            "categoría": "higiene y cuidado personal",
+            "precio": 8,
+            "cantidad": 27
+        },
+        {
+            "nombre": "serum capilar",
+            "categoría": "higiene y cuidado personal",
+            "precio": 12,
+            "cantidad": 49
+        },
+        {
+            "nombre": "aceite de oliva",
+            "categoría": "alimentos y bebidas",
+            "precio": 14.5,
+            "cantidad": 18
+        },
+        {
+            "nombre": "pan de sándwich",
+            "categoría": "alimentos y bebidas",
+            "precio": 6.2,
+            "cantidad": 7
+        },
+        {
+            "nombre": "mezcla para panquecas",
+            "categoría": "alimentos y bebidas",
+            "precio": 7.2,
+            "cantidad": 13
+        }
+    ]
+}
